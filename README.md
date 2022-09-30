@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <B>A passionate CSE guy</B>
 
 - 🌱 I’m currently learning in depth Java
-- 💬 Ask me about Web development, Java, Python
+- 💬 Ask me about Oops, Web development, Java, Python
 - 📫 How to reach me [mihir240621@gmail.com](mailto:mihir240621@gmail.com)
 
 
